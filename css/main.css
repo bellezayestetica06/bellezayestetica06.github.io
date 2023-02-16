@@ -1,0 +1,73 @@
+/*
+	CLIENTS TICKERS
+*/
+
+.features .recent-customers{
+	max-width: 520px;
+	margin: 0 auto;
+	background:#fff;
+	border:1px solid #000;
+	padding:0;
+	}
+	
+.features .recent-customers h3{
+    font-family: Arial,Helvetica,sans-serif !important;
+	 background-color: #1A6640;
+    border-color: #ffffff;
+    border-style: solid;
+    border-width: 1px;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: bold;
+	padding:5px 10px;
+	margin:0;
+}
+.features .ticker-bottom{
+background:url(../images/bg.gif) repeat-x;
+font-size: 11px; 
+font-family: Arial, Helvetica, sans-serif; 
+padding-top: 3px;
+text-align:center;
+}
+
+/* nt-example1 */
+
+.features-content #nt-example1 {
+	max-height:157px;
+	padding-left:0;
+	margin-top:2px;
+    margin-bottom:2px;
+	margin-left:0;
+}
+
+.features-content #nt-example1-container {
+	text-align: center;
+	padding-left:10px;
+	padding-right:10px;
+	overflow:hidden;
+}
+
+.features-content #nt-example1 li {
+	font-family: Arial,Helvetica,sans-serif;
+	color: #4e4e4e;
+	background: #ffffff;
+	overflow: hidden;
+	line-height: 1;
+	list-style: none;
+	font-size: 13px;
+	text-align: left;
+	height: 35px;
+	padding:0;
+	width:100%;
+	margin:0;
+}
+
+.features-content #nt-example1 li span{
+	width:22%;
+	float:left;
+	margin-right:20px;
+	}
+	
+.features-content #nt-example1 li span:nth-child(4n){
+	margin-right:0;
+}
